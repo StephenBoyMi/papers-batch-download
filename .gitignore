@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+
+# 凭证，禁止入库
+cnki_cookie.txt
+
+# 运行产物
+知网失败清单_*.txt
+save/
+
+# 本机回退备份
+backup_20261026/

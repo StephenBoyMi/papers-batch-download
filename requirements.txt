@@ -1,0 +1,6 @@
+pillow>=10.0
+requests>=2.28
+
+# 知网模式另需（IEEE 模式不需要）：
+#   pip install playwright
+# 并要求系统已安装 Microsoft Edge（代码用 channel="msedge"）
